@@ -4,7 +4,7 @@
 ---
 
 ## 💼 About Me
-- 3+ years of experience in Salesforce Marketing Cloud (SFMC) development and implementation.  
+- 4+ years of experience in Salesforce Marketing Cloud (SFMC) development and implementation.  
 - Skilled in building email campaigns, customer journeys, and automation workflows.  
 - Strong problem-solving, debugging, and analytical skills with a passion for learning new technologies.  
 - Experienced in client interaction, requirement analysis, and delivering solutions on time.  
@@ -19,7 +19,7 @@
 ---
 
 ## 📂 Work Experience
-- **SFMC Developer – Bics Global Pvt Ltd (May 2023 – Present)**  
+- **SFMC Developer – Bics Global Pvt Ltd (May 2023 – July 2024)**  
   Clients: Johnson & Johnson (Kenvue, Benadryl Newsletter Automation)  
   - Built survey and sentiment email campaigns, landing pages, and SMS messages.  
   - Designed data models, automated data loads, and delivered intelligent reports.  
@@ -42,9 +42,12 @@
 ---
 
 ## 📜 Certifications
-- Salesforce Marketing Cloud Administrator  
-- Salesforce Marketing Cloud Email Specialist  
-- Salesforce Data Cloud Consultant  
+- Salesforce AI
+- Salesforce Marketing Cloud Email Specialist
+- Salesforce Marketing Cloud Administrator
+- Salesforce Marketing Cloud Developer 
+- Salesforce Data Cloud Consultant
+ 
 
 ---
 
@@ -52,8 +55,7 @@
 - 📧 Email: dongariganeshsfmc@gmail.com  
 - 📞 Phone: +91 9581389082  
 - 📍 Location: Warangal, Telangana  
-- 🔗 LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+- 🔗 LinkedIn: http://linkedin.com/in/ganesh-varma-dongari-1a7012204 
 
----
 
 ⭐️ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
